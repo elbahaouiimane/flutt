@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026578504585",
+    "project_id": "elbahaoui-flutterproject",
+    "storage_bucket": "elbahaoui-flutterproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026578504585:android:8de0a47c42d09dc974df58",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkFmFp1In8ARllWXZfonAXp6tIMCGT-hY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
