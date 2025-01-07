@@ -91,7 +91,7 @@ class _LoginPageState extends State<LoginPage> {
           children: [Image.asset('images/login_logo.webp',
               height: 120,
               width: 120),
-            Text('hello back to the home page!',
+            Text('Welcome to the login page',
               textAlign: TextAlign.center,
               style: TextStyle(fontSize: 29,color: Colors.blueAccent),),
             SizedBox(height: 20),

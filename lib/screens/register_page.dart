@@ -76,7 +76,7 @@ class _RegisterPageState extends State<RegisterPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Login Page ',
+        title: Text('Register Page ',
           style: TextStyle(color: Colors.white,fontSize: 60),),backgroundColor: Colors.blueGrey,
 
       ),
@@ -87,7 +87,7 @@ class _RegisterPageState extends State<RegisterPage> {
           children: [Image.asset('images/login_logo.webp',
               height: 120,
               width: 120),
-            Text('hello back to the home page!',
+            Text('Welcome to the register page',
               textAlign: TextAlign.center,
               style: TextStyle(fontSize: 29,color: Colors.blueAccent),),
             SizedBox(height: 20),
